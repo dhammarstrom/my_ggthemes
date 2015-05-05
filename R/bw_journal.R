@@ -9,6 +9,7 @@ bw_journal<-function(){
             panel.grid.major.y = element_blank(),
             panel.grid.minor = element_line(size=.5, color="gray"),
             plot.background = element_rect(fill = "white"),
-            panel.background = element_rect(fill = 'white', colour = 'black'))
+            panel.background = element_rect(fill = 'white', colour = 'black'),
+            strip.background=element_rect(fill="gray", color="black"))
       }
 
