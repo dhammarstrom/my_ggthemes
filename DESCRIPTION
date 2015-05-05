@@ -1,0 +1,10 @@
+Package: my.ggthemes
+Title: Collection of ggplot2 themes
+Version: 0.1
+Authors@R: person("Daniel", "Hammarström", email = "d.hammarstrom@hotmail.se",
+                  role = c("aut", "cre"))
+Description: Different themes for ggplot2.
+Depends: R (>= 3.1.0)
+LazyData: true
+Imports:
+      ggplot2
