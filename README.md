@@ -6,5 +6,5 @@ Themes for ggplot2
 
 ```{r}
 # install.packages("devtools")
-devtools::install_github("dhammarstrom/qpcr.data")
+devtools::install_github("dhammarstrom/my_ggthemes")
 ```
